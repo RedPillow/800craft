@@ -1,3 +1,12 @@
+HashCraft is just starting out but it ver awesome :p
+More will be coming on the readme at a later date :D
+
+
+
+
+
+
+Now heres 800craft's source in case you need it :P
 ------------------------------------------------------------------
 
 This was 800Craft, a Minecraft Classic Server Software. 
